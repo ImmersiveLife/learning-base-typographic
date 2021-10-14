@@ -10,7 +10,9 @@
 * [Стили подач](arkhitekturnaya-podacha/stili-podach.md)
 * [Источники вдохновения](arkhitekturnaya-podacha/istochniki-vdokhnoveniya.md)
 * [Производство контента](arkhitekturnaya-podacha/proizvodstvo-kontenta.md)
-* [Сведение и вёрстка](arkhitekturnaya-podacha/svedenie-i-vyorstka.md)
+* [Сведение и вёрстка](arkhitekturnaya-podacha/svedenie-i-vyorstka/README.md)
+  * [InDesign. Кнопки](arkhitekturnaya-podacha/svedenie-i-vyorstka/indesign.-knopki.md)
+  * [InDesign. Технологии](arkhitekturnaya-podacha/svedenie-i-vyorstka/indesign.-tekhnologii.md)
 
 ## WEB. Цифровая публикация
 
